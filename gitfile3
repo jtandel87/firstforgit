@@ -1,4 +1,8 @@
 new first file created in new branch
+<<<<<<< HEAD
 this file is pulled from my github on 27th july 2020
 third fill im updating
 
+=======
+this file is pulled from my github on 27th july 202012345
+>>>>>>> branch2

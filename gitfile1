@@ -1,5 +1,9 @@
 content added to gitfile1
+<<<<<<< HEAD
 this file is pulled from my github on 27th july 2020
 second update
 good job
 we learing good
+=======
+this file is pulled from my github on 27th july 202012345 gitfile2 gitfile3
+>>>>>>> branch2
